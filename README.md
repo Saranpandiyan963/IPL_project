@@ -78,7 +78,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 ### I am giving a brief overview of the EDA files:
 
 ### *Trends Across Overs*
-![Graph Example](GraphPng\BWTrend.PNG)
+![Graph Example](GraphPng\BWTrend.png)
 1. **Trends Across Overs**:  
    - The chart visualizes **boundaries (in blue), runs (in red), and wickets (in green)** over the course of **20 overs** in a cricket match.  
    - Each stacked bar represents the breakdown of counts (boundaries, wickets) for a specific over.
@@ -93,7 +93,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 
 ### *Cities Hosting the Most Matches*
 
-![Graph Example](GraphPng\CityHosted.PNG)
+![Graph Example](GraphPng/CityHosted.png)
 1. **Mumbai Leads**:  
    - Mumbai stands out significantly, hosting **170 matches**, which is far higher than any other city.  
 
@@ -106,7 +106,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 ---
 
 ### *Top 10 Players of the Match*
-![Graph Example](GraphPng\MOMPlayers.PNG)
+![Graph Example](GraphPng/MOMPlayers.PNG)
 1. **AB de Villiers Dominates**:  
    - AB de Villiers leads the chart with **25 Man of the Match awards**, showcasing his consistent match-winning performances.  
 
@@ -119,7 +119,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 ---
 
 ### *Matches Played by Each IPL Team*
-![Graph Example](GraphPng\TeamLvsW.PNG)
+![Graph Example](GraphPng/TeamLvsW.PNG)
 1. **Mumbai Indians Lead**:  
    - Mumbai Indians played the most matches (**261 matches**) with a notable split between **144 wins (blue)** and **117 losses (red)**.  
 

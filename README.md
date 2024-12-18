@@ -78,7 +78,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 ### I am giving a brief overview of the EDA files:
 
 ### *Trends Across Overs*
-![Graph Example](GraphPng\BWTrend.png)
+![Graph Example](GraphPng/BWTrend.PNG)
 1. **Trends Across Overs**:  
    - The chart visualizes **boundaries (in blue), runs (in red), and wickets (in green)** over the course of **20 overs** in a cricket match.  
    - Each stacked bar represents the breakdown of counts (boundaries, wickets) for a specific over.
@@ -93,7 +93,7 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 
 ### *Cities Hosting the Most Matches*
 
-![Graph Example](GraphPng/CityHosted.png)
+![Graph Example](GraphPng/CityHosted.PNG)
 1. **Mumbai Leads**:  
    - Mumbai stands out significantly, hosting **170 matches**, which is far higher than any other city.  
 

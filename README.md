@@ -1,5 +1,7 @@
 # IPL Data Analysis Project
 
+## Website : `https://ipldashboard-445103.ue.r.appspot.com/`
+
 ## Overview
 This project involves the analysis of IPL (Indian Premier League) cricket data to derive insights and visualize trends. The analysis uses Python and Plotly Dash to create an interactive dashboard for exploring various aspects of IPL matches and player performances.
 
@@ -42,6 +44,7 @@ The data is pre-processed and stored in a pickle file (`Df_matches.pkl`) for fas
   - `dash` for creating the interactive web app.
   - `plotly` for advanced data visualization.
   - `pandas` for data manipulation and analysis.
+  - `Anaconda` for managing the Python environment, including Jupyter notebooks, libraries, and packages for data analysis, scientific computing, and machine learning.
 - **Gunicorn:** For serving the Dash app in production.
 
 ### Deployment

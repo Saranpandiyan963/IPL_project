@@ -1,0 +1,40 @@
+{
+  "id": "patrickb1912/ipl-complete-dataset-20082020",
+  "id_no": 990900,
+  "datasetSlugNullable": "ipl-complete-dataset-20082020",
+  "ownerUserNullable": "patrickb1912",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IPL Complete Dataset (2008-2024)",
+  "subtitleNullable": "The latest and complete IPL dataset (Updated till 2024 Season)",
+  "descriptionNullable": "### Context\nNow that this year's IPL is over, let's not curb our cricket love and start analyzing the whole of IPL with this latest and complete Indian Premier League dataset. It contains the match descriptions, results, winners, player of the matches, ball by ball dataset and much more. So, stop thinking and start **analyzing** .\n\n\n### Content\nThis dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.\n\n### Acknowledgements\nData Source : [Cricsheet](cricsheet.org)",
+  "datasetId": 990900,
+  "datasetSlug": "ipl-complete-dataset-20082020",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickb1912",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 379172,
+  "totalVotes": 817,
+  "totalDownloads": 92674,
+  "title": "IPL Complete Dataset (2008-2024)",
+  "hasTitle": true,
+  "subtitle": "The latest and complete IPL dataset (Updated till 2024 Season)",
+  "hasSubtitle": true,
+  "description": "### Context\nNow that this year's IPL is over, let's not curb our cricket love and start analyzing the whole of IPL with this latest and complete Indian Premier League dataset. It contains the match descriptions, results, winners, player of the matches, ball by ball dataset and much more. So, stop thinking and start **analyzing** .\n\n\n### Content\nThis dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.\n\n### Acknowledgements\nData Source : [Cricsheet](cricsheet.org)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cricket",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

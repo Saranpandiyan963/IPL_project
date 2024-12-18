@@ -80,12 +80,12 @@ The project includes two Jupyter notebooks for exploratory data analysis (EDA): 
 ### *Trends Across Overs*
 ![Graph Example](GraphPng/BWTrend.PNG)
 1. **Trends Across Overs**:  
-   - The chart visualizes **boundaries (in blue), runs (in red), and wickets (in green)** over the course of **20 overs** in a cricket match.  
+   - The chart visualizes **Sixes (in blue), Fours (in red), and wickets (in green)** over the course of **20 overs** in a cricket match.  
    - Each stacked bar represents the breakdown of counts (boundaries, wickets) for a specific over.
 
 2. **Boundaries Increase in Death Overs**:  
-   - In the early overs (0–5), boundaries (blue section) are relatively low but **increase significantly** towards the end of the match (overs 15–20).  
-   - For example, boundaries reach a peak value of around **30** in overs 15–20.
+   - In the early overs (0–5), Sixes (blue section) are relatively low but **increase significantly** towards the end of the match (overs 15–20).  
+   - For example, Sixes reach a peak value of around **30** in overs 15–20.
 
 3. **Wickets Rise in Final Overs**:  
    - Wickets (green section) remain steady for most of the innings but **increase sharply in the 20th over**, indicating that bowlers take more wickets in the final phase of the match.  
